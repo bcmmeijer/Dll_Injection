@@ -1,2 +1,2 @@
 # ReflectiveDllInjection
-DLL injector
+DLL injector written in C++
